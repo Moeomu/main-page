@@ -1,5 +1,5 @@
 ---
 title: Misaka
 description: A Human
-logo: "images/avator.svg"
+logo: "images/M.svg"
 ---
