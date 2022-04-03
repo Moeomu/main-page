@@ -3,6 +3,12 @@ title: "Sites"
 description: "Sites and System Status"
 ---
 
+## Moeomu
+
+### [Moeomu](https://www.moeomu.com)
+
+![Moeomu - System Status](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fwww.moeomu.com)
+
 ## Blog
 
 ### [Moeomu's Blog](https://blog.moeomu.com)
