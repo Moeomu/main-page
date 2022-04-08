@@ -3,9 +3,7 @@ title: "About Me"
 description: "About Me"
 ---
 
-> 首先欢迎您的到访，[本项目](https://github.com/BloveDawn/main-page)的`master`分支是<https://www.moeomu.com>站点的构建源文件，由[Vercel](http://vercel.com/)最终部署发布
->
-> 注意：此项目目前为Private状态
+> 首先欢迎您的到访，[本项目](https://github.com/BloveDawn/main-page)的`master`分支是<https://www.moeomu.com>站点的构建源文件，由[Vercel](http://vercel.com/)最终部署发布。
 
 ## 站点介绍
 
