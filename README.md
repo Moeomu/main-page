@@ -1,6 +1,6 @@
 # Moeomu
 
-> 首先欢迎您的到访，[本项目](https://github.com/BloveDawn/main-page)的`main`分支是<https://www.moeomu.com>站点的构建源文件，由[Vercel](https://vercel.com/)最终部署。
+> 首先欢迎您的到访，[本项目](https://github.com/Misakaou/main-page)的`main`分支是<https://www.moeomu.com>站点的构建源文件，由[Vercel](https://vercel.com/)最终部署。
 
 ## 站点介绍
 
