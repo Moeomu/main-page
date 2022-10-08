@@ -26,5 +26,5 @@ description: "About Me"
 
 ## 联系我
 
-- 个人邮件(推荐)：<misakaou@outlook.com> [GPG Key](file/Misaka_m_0xED260593_Public.asc)
-- 站点反馈邮件：<feedback@moeomu.com> [PGP Key](file/Misaka_0x9A630CD2_public.asc)
+- 个人邮件(推荐)：<misakaou@outlook.com> [[PGP Key]](file/Misaka_m_0xED260593_Public.asc)
+- 站点反馈邮件：<feedback@moeomu.com> [[PGP Key]](file/Misaka_0x9A630CD2_public.asc)
