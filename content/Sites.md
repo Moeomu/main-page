@@ -46,13 +46,13 @@ description: "Sites and System Status"
 
 - 请少量使用，因为它可能并不稳定。
 
-## Reader
+## Music Unlocker
 
-### [Moeomu's Reader](https://read.moeomu.com)
+### [Moeomu's Music Unlocker](https://unlock-music.moeomu.com)
 
-![Search - System Status](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fread.moeomu.com%2F)![Uptime Robot status](https://img.shields.io/uptimerobot/status/m792533216-54b725d18448cdbdad994263)![Uptime Robot ratio (7 days)](https://img.shields.io/uptimerobot/ratio/7/m792533216-54b725d18448cdbdad994263)
+![Music Unlocker - System Status](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fread.moeomu.com%2F)![Uptime Robot status](https://img.shields.io/uptimerobot/status/m792858195-ba18dcdbb44fc9392fe9b98c)![Uptime Robot ratio (7 days)](https://img.shields.io/uptimerobot/ratio/7/m792858195-ba18dcdbb44fc9392fe9b98c)
 
-- **注意：如果您需要一个账户，请直接邮件找我，但我将只会给予认识的人啦。**
+- 它可以将网易云音乐/QQ音乐/酷狗/酷我/虾米/咪咕音乐的付费格式歌曲转换成其他播放器可以播放的格式，整个转换过程在浏览器本地进行，不会使用网络。
 
 ## Subscribe Convertor
 
@@ -61,3 +61,10 @@ description: "Sites and System Status"
 ![Subscribe Convertor - System Status](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fsub.moeomu.com)![Uptime Robot status](https://img.shields.io/uptimerobot/status/m791265071-da9f03434b2c9aac45439348)![Uptime Robot ratio (7 days)](https://img.shields.io/uptimerobot/ratio/7/m791265071-da9f03434b2c9aac45439348)
 
 - 这个工具可以将某种格式的VPN订阅链接转换为您指定的软件格式的订阅链接。
+
+## Stopped services list
+
+### Moeomu's Reader
+
+- This service has been discontinued and will not be maintained for the foreseeable future.
+- 此服务已停止，可预计的未来将不会再继续维护。
