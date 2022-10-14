@@ -50,7 +50,7 @@ description: "Sites and System Status"
 
 ### [Moeomu's Music Unlocker](https://unlock-music.moeomu.com)
 
-![Music Unlocker - System Status](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fread.moeomu.com%2F)![Uptime Robot status](https://img.shields.io/uptimerobot/status/m792858195-ba18dcdbb44fc9392fe9b98c)![Uptime Robot ratio (7 days)](https://img.shields.io/uptimerobot/ratio/7/m792858195-ba18dcdbb44fc9392fe9b98c)
+![Music Unlocker - System Status](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Funlock-music.moeomu.com%2F)![Uptime Robot status](https://img.shields.io/uptimerobot/status/m792858195-ba18dcdbb44fc9392fe9b98c)![Uptime Robot ratio (7 days)](https://img.shields.io/uptimerobot/ratio/7/m792858195-ba18dcdbb44fc9392fe9b98c)
 
 - 它可以将网易云音乐/QQ音乐/酷狗/酷我/虾米/咪咕音乐的付费格式歌曲转换成其他播放器可以播放的格式，整个转换过程在浏览器本地进行，不会使用网络。
 
