@@ -62,6 +62,22 @@ description: "Sites and System Status"
 
 - 这个工具可以将某种格式的VPN订阅链接转换为您指定的软件格式的订阅链接。
 
+## Bitwarden
+
+### [Moeomu's Vault](https://vault.moeomu.com)
+
+- 一个开源的密码管理器，可以用来存储密码、网站账号、银行卡信息等等。
+
+> 尚未开放注册，如需使用请联系我。
+
+## Gitea
+
+### [Moeomu's Gitea](https://git.moeomu.com)
+
+- 一个开源的Git仓库管理工具，可以用来存储代码、文档等等。
+
+> 尚未开放注册，如需使用请联系我。
+
 ## Stopped services list
 
 ### Moeomu's Reader
