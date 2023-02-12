@@ -3,8 +3,6 @@ title: "Sites"
 description: "Sites and System Status"
 ---
 
-> [Moeomu SystemStatus/系统状态页](https://stats.uptimerobot.com/1znlOC6Gn8)
-
 ## Moeomu
 
 ### [Moeomu](https://www.moeomu.com)
